@@ -1479,7 +1479,7 @@ histogram_draw('life_expectancy', 'Life expectancy distribution in 1800 and 2000
 ```
 
 
-![png](output_24_0.png)
+![png](images/1.png)
 
 
 
@@ -1488,7 +1488,7 @@ histogram_draw('income_per_person', 'Income per person distribution in 1800 and 
 ```
 
 
-![png](output_25_0.png)
+![png](images/2.png)
 
 
 
@@ -1497,7 +1497,7 @@ histogram_draw('population', 'Population distribution in 1800 and 2000')
 ```
 
 
-![png](output_26_0.png)
+![png](images/3.png)
 
 
 
@@ -1506,7 +1506,7 @@ histogram_draw('children_per_woman', 'Children per woman distribution in 1800 an
 ```
 
 
-![png](output_27_0.png)
+![png](images/4.png)
 
 
 
@@ -1515,7 +1515,7 @@ histogram_draw('child_mortality', 'Children 0-5 years old die per 1000 born in 1
 ```
 
 
-![png](output_28_0.png)
+![png](images/5.png)
 
 
 Now let's explore more profoundly using box plots to see changes in each region
@@ -1545,11 +1545,11 @@ box_draw('life_expectancy', 'Life expectancy in 1800', 'Life expectancy in 2000'
 ```
 
 
-![png](output_31_0.png)
+![png](images/6.png)
 
 
 
-![png](output_31_1.png)
+![png](images/7.png)
 
 
 
@@ -1558,11 +1558,11 @@ box_draw('income_per_person', 'Income per person in 1800', 'Income per person in
 ```
 
 
-![png](output_32_0.png)
+![png](images/8.png)
 
 
 
-![png](output_32_1.png)
+![png](images/9.png)
 
 
 
@@ -1571,11 +1571,11 @@ box_draw('population', 'Population in 1800', 'Population in 2000', True)
 ```
 
 
-![png](output_33_0.png)
+![png](images/10.png)
 
 
 
-![png](output_33_1.png)
+![png](images/11.png)
 
 
 
@@ -1584,11 +1584,11 @@ box_draw('children_per_woman', 'Children per woman in 1800', 'Children per woman
 ```
 
 
-![png](output_34_0.png)
+![png](images/12.png)
 
 
 
-![png](output_34_1.png)
+![png](images/13.png)
 
 
 
@@ -1597,11 +1597,11 @@ box_draw('child_mortality', 'Child mortality in 1800', 'Child mortality in 2000'
 ```
 
 
-![png](output_35_0.png)
+![png](images/14.png)
 
 
 
-![png](output_35_1.png)
+![png](images/15.png)
 
 
 ###  Question 1:
@@ -2055,23 +2055,23 @@ plt.show()
 ```
 
 
-![png](output_66_0.png)
+![png](images/16.png)
 
 
 
-![png](output_66_1.png)
+![png](images/17.png)
 
 
 
-![png](output_66_2.png)
+![png](images/18.png)
 
 
 
-![png](output_66_3.png)
+![png](images/19.png)
 
 
 
-![png](output_66_4.png)
+![png](images/20.png)
 
 
 Let's stop here a little and try to refind what we concluded in our first question by revising the plot of each feature:
@@ -2101,19 +2101,19 @@ plt.show()
 ```
 
 
-![png](output_69_0.png)
+![png](images/21.png)
 
 
 
-![png](output_69_1.png)
+![png](images/22.png)
 
 
 
-![png](output_69_2.png)
+![png](images/23.png)
 
 
 
-![png](output_69_3.png)
+![png](images/24.png)
 
 
 As from the correlation plots, the answer to our quetion seems to be that while income per person has the positive correlation to the average life expectancy, number of children per woman and child mortality have the negative correlation. Concerning population, apart from China, this indice doesn't have significant effect on life expectancy.
