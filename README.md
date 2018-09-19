@@ -1,5 +1,5 @@
 
-# Gapminder data: how the world has changed for 200 years?
+# Gapminder data: how has the world changed for 200 years?
 
 ## Table of Contents
 <ul>
